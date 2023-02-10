@@ -170,9 +170,9 @@
     },
     {
       
-      "title": "nextbot garry's mod",
+      "title": "scp mod for garry's mod",
       "image": "https://play-lh.googleusercontent.com/JllRpdJTPDe5qxM8htKrp2TOGBtbXFKAxubB7qIlZLywJEq4OOPLR8D00vVFgXQNyw=w240-h480",
-      "url": "https://play.google.com/store/apps/details?hl=&gl=&id=com.nextbotmod.garrysmod"
+      "url": "https://play.google.com/store/apps/details?hl=&gl=&id=com.scpmod.garrysmod"
 
 
     }

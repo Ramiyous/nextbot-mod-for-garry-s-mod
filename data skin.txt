@@ -1,11 +1,11 @@
 { "ADS":
     {
   
-       "cpa_image":"yandex",
-      "cpa_title":"yandex",
-      "cpa_sous_title":"yandex",
-      "cpa_url":"yandex",
-      "show_cpa":false,
+       "cpa_image":"https://play-lh.googleusercontent.com/RiZJHzo2xp7irTh1AMojBbGLZh6w8Nini_r8_w2_diTWKJtMua8xEWAU6ac_P4qieYGO=w240-h480-rw",
+      "cpa_title":"GMOD 2 Skibidi Toilet",
+      "cpa_sous_title":"GMOD Skibidi Toilet Game Mod",
+      "cpa_url":"https://play.google.com/store/apps/details?id=com.ofbanban.garrysmod",
+      "show_cpa":true,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
